@@ -4,7 +4,7 @@ simple kafka webhook example for netpalm
 ### installing the webhook
 
 - add ```kafka-python``` to your ```netpalm/worker_requirements.txt```
-- load kafka.py to ```netpalm/backend/plugins/extensibles/custom_webhooks/```
+- load ```kafka.py``` to ```netpalm/backend/plugins/extensibles/custom_webhooks/```
 - add compose file ```docker-compose-with-kafka.yml```
 - rebuild container
 
@@ -22,5 +22,6 @@ simple kafka webhook example for netpalm
         }
     }
 ```
+
 ### credits
  @wmclendon ( creator of this webhook )
