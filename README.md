@@ -19,4 +19,4 @@ simple kafka webhook example for netpalm
     }
 ```
 ### credits
- @wmclendon1983
+ @wmclendon
